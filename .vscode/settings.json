@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "PasteBin.sln",
+    "cmake.configureOnOpen": false
+}
